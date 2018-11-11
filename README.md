@@ -1,4 +1,4 @@
 # NYTimes_iOS
 
-The design patter used is MVVM.
-Used Generics and resuable code.
+The design pattern used is MVVM.
+Used Generics and made resuable code much possible
